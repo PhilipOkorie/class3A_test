@@ -34,6 +34,7 @@ I like to eat mango ice cream
 suddenly an extra line
 10
 
+
 ## HameedBranch
 My name is Hameed
 I like to eat and play fifa
@@ -41,4 +42,8 @@ Philip is also Nigerian
 Chelsea is the best ball club
 AJ is the goatttttt
 
+
+dog eats dog
+fool id alive
+cat marries lion 
 
